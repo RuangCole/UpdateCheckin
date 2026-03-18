@@ -1,0 +1,3 @@
+paper_photogetting:3.2
+paper_weathergetting:2.0
+paperthreeproject:4.2
